@@ -1,0 +1,33 @@
+Source Country,Target Country,Trade Category,Trade Volume,Migration Flow
+Brazil,China,Agricultural,20.5,5
+Brazil,India,Industrial,13.2,3
+China,Russia,Technology,45.0,10
+China,Saudi Arabia,Energy,58.5,2
+India,Russia,Services,12.0,6
+Russia,Brazil,Energy,18.3,1
+Saudi Arabia,India,Industrial,20.7,7
+Saudi Arabia,China,Agricultural,14.2,4
+India,Brazil,Services,11.5,8
+China,India,Technology,39.5,15
+Brazil,Russia,Technology,25.4,2
+Brazil,Saudi Arabia,Energy,27.8,4
+India,China,Industrial,30.1,12
+Russia,India,Agricultural,10.9,3
+China,Brazil,Services,19.6,9
+Saudi Arabia,Russia,Technology,41.3,5
+India,Saudi Arabia,Energy,22.4,6
+Brazil,India,Services,14.7,4
+Russia,Saudi Arabia,Industrial,18.5,3
+India,Russia,Technology,33.8,7
+China,Brazil,Agricultural,16.5,6
+Saudi Arabia,Brazil,Industrial,23.9,8
+Brazil,India,Technology,28.3,5
+India,Saudi Arabia,Services,19.1,4
+Russia,China,Energy,37.5,11
+Saudi Arabia,India,Technology,40.2,9
+China,Russia,Services,24.3,13
+India,China,Energy,26.7,14
+Brazil,China,Technology,31.6,7
+Russia,India,Energy,21.5,6
+China,India,Industrial,35.4,10
+Saudi Arabia,Russia,Agricultural,15.8,2
